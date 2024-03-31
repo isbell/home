@@ -1,5 +1,7 @@
 ---
-title: "Home"
+title: "About"
+
+about: jolla
 ---
 
 Hello! My name is Dan Isbell and I am an Assistant Professor in the [Department of Second Language Studies](https://www.hawaii.edu/sls/) at the University of Hawaiʻi at Mānoa. I completed my PhD in Second Language Studies at Michigan State University in 2019. I am an Associate Editor at *Language Learning* and serve on the Editorial Board of *Language Testing*. 
