@@ -2,4 +2,4 @@
 title: "Home"
 ---
 
-Hello!
+Hello! My name is Dan Isbell and I am an Assistant Professor in the Department of Second Language Studies at the University of Hawaiʻi at Mānoa.
