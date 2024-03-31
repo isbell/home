@@ -2,7 +2,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Home",
+    "title": "About",
     "section": "",
     "text": "Hello! My name is Dan Isbell and I am an Assistant Professor in the Department of Second Language Studies at the University of Hawaiʻi at Mānoa. I completed my PhD in Second Language Studies at Michigan State University in 2019. I am an Associate Editor at Language Learning and serve on the Editorial Board of Language Testing."
   },
@@ -10,6 +10,13 @@
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   }
